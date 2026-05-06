@@ -29,7 +29,7 @@ def show_menu() -> None:
     print("- Prices based on BID value (market buy price).")
     print("- Compares current data with the last record from the previous day.")
     print("- Automatically saves a history of every check in CSV files.")
-    print("- Press Ctrl+C at any time to cancel and exit.\n")
+    print("- Press Ctrl+C at any time to exit the application.  \n")
     print("-" * 30)
 
     print(" 1. Check Currencies (USD/EUR)")
