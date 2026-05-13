@@ -32,11 +32,10 @@ pip install requests
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/seu-usuario/market-snapshot-cli.git
+    git clone https://github.com/rafarsc87/market-snapshot-cli.git
     cd market-snapshot-cli
     ```
-    *(Remember to replace `seu-usuario` with your actual GitHub username)*
-
+    
 2.  **Run the main application:**
     ```bash
     python main.py
@@ -61,4 +60,11 @@ The project is organized into several modules for clarity and maintainability:
 
 
 ---
-Developed by Rafael S.
+## 📄 License
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## 👨‍💻 Developed By
+
+Rafael Salgado
+*Building Python Backend Applications*
+www.linkedin.com/in/rafael-salgado-940ab9406
