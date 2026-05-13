@@ -1,5 +1,8 @@
 # Market Snapshot CLI
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A Python command-line interface (CLI) tool designed to provide real-time snapshots of financial markets. It fetches current exchange rates for fiat currencies and cryptocurrencies, compares them against historical data, and saves the records for future analysis.
 
 ## 🚀 Features
@@ -63,8 +66,11 @@ The project is organized into several modules for clarity and maintainability:
 ## 📄 License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
+## 👨‍💻 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-salgado-940ab9406)
+
 ## 👨‍💻 Developed By
 
 Rafael Salgado
 *Building Python Backend Applications*
-www.linkedin.com/in/rafael-salgado-940ab9406
